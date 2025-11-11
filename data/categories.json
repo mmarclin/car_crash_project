@@ -1,0 +1,236 @@
+{
+  "sexe": {
+    "1": "1: Masculin",
+    "2": "2: Féminin",
+    "-1": "-1: Non renseigné"
+  },
+  "trajet": {
+    "1": "1: Domicile - travail",
+    "2": "2: Domicile - école",
+    "3": "3: Courses - achats",
+    "4": "4: Utilisation professionnelle",
+    "5": "5: Promenade - loisirs",
+    "9": "9: Autre",
+    "0": "0: Non renseigné",
+    "-1": "-1: Non renseigné"
+  },
+  "catv": {
+    "7": "7: VL (Voiture)",
+    "2": "2: Scooter",
+    "30": "30: Moto < 125cc",
+    "31": "31: Moto > 125cc",
+    "1": "1: Vélo",
+    "10": "10: VU (Utilitaire)",
+    "14": "14: PL (Poids Lourd)",
+    "37": "37: Vélo électrique",
+    "0": "0: Autre",
+    "-1": "-1: Non renseigné"
+  },
+  "secu1": {
+    "1": "1: Ceinture",
+    "2": "2: Casque",
+    "0": "0: Aucun équipement",
+    "8": "8: Non déterminable",
+    "9": "9: Autre",
+    "-1": "-1: Non renseigné"
+  },
+  "lum": {
+    "1": "1: Plein jour",
+    "2": "2: Crépuscule ou aube",
+    "3": "3: Nuit avec éclairage public allumé",
+    "4": "4: Nuit avec éclairage public non allumé",
+    "5": "5: Nuit sans éclairage public",
+    "-1": "-1: Non renseigné"
+  },
+  "atm": {
+    "1": "1: Normale",
+    "2": "2: Pluie légère",
+    "3": "3: Pluie forte",
+    "4": "4: Neige - grêle",
+    "5": "5: Brouillard - fumée",
+    "6": "6: Vent fort - tempête",
+    "7": "7: Temps éblouissant",
+    "8": "8: Temps couvert",
+    "9": "9: Autre",
+    "-1": "-1: Non renseigné"
+  },
+  "agg": {
+    "2": "2: En agglomération",
+    "1": "1: Hors agglomération"
+  },
+  "surf": {
+    "1": "1: Normale",
+    "2": "2: Mouillée",
+    "7": "7: Verglacée",
+    "5": "5: Enneigée",
+    "3": "3: Flaques",
+    "4": "4: Inondée",
+    "6": "6: Boue",
+    "8": "8: Corps gras - huile",
+    "9": "9: Autre",
+    "-1": "-1: Non renseigné"
+  },
+  "int": {
+    "1": "1: Hors intersection",
+    "2": "2: Intersection en X",
+    "3": "3: Intersection en T",
+    "4": "4: Intersection en Y",
+    "5": "5: Intersection à sens giratoire",
+    "6": "6: Place",
+    "9": "9: Autre",
+    "0": "0: Non renseigné",
+    "-1": "-1: Non renseigné"
+  },
+  "col": {
+    "1": "1: Deux véhicules - frontale",
+    "2": "2: Deux véhicules - par l'arrière",
+    "3": "3: Deux véhicules - par le coté",
+    "4": "4: Trois véhicules et plus - en chaîne",
+    "5": "5: Trois véhicules et plus - collisions multiples",
+    "6": "6: Autre collision",
+    "7": "7: Sans collision",
+    "-1": "-1: Non renseigné"
+  },
+  "place": {
+    "1": "1: Conducteur"
+  },
+  "secu2": {
+    "1": "1: Gants",
+    "2": "2: Gants + Airbag",
+    "0": "0: Aucun",
+    "8": "8: Non déterminable",
+    "9": "9: Autre",
+    "-1": "-1: Non renseigné"
+  },
+  "catr": {
+    "1": "1: Autoroute",
+    "2": "2: Route Nationale",
+    "3": "3: Route Départementale",
+    "4": "4: Voie Communale",
+    "5": "5: Hors réseau public",
+    "6": "6: Parc de stationnement",
+    "9": "9: Autre",
+    "-1": "-1: Non renseigné"
+  },
+  "circ": {
+    "1": "1: A sens unique",
+    "2": "2: Bidirectionnelle",
+    "3": "3: A chaussées séparées",
+    "4": "4: Avec voies d'affectation variable",
+    "-1": "-1: Non renseigné"
+  },
+  "nbv": {
+    "1": "1 voie",
+    "2": "2 voies",
+    "3": "3 voies",
+    "4": "4 voies",
+    "5": "5 voies et plus",
+    "0": "0: Non renseigné",
+    "-1": "-1: Non renseigné"
+  },
+  "vosp": {
+    "1V": "1: Piste cyclable",
+    "2": "2: Bande cyclable",
+    "3": "3: Voie réservée",
+    "0": "0: Sans objet",
+    "-1": "-1: Non renseigné"
+  },
+  "prof": {
+    "1": "1: Plat",
+    "2": "2: Pente",
+    "3": "3: Sommet de côte",
+    "4": "4: Bas de côte",
+    "-1": "-1: Non renseigné"
+  },
+  "plan": {
+    "1": "1: Partie rectiligne",
+    "2": "2: En courbe à gauche",
+    "3": "3: En courbe à droite",
+    "4": "4: En \"S\"",
+    "-1": "-1: Non renseigné"
+  },
+  "infra": {
+    "1": "1: Souterrain - tunnel",
+    "2": "2: Pont - autopont",
+    "3": "3: Bretelle",
+    "4": "4: Voie ferrée",
+    "5": "5: Carrefour aménagé",
+    "6": "6: Zone piétonne",
+    "7": "7: Zone de péage",
+    "0": "0: Aucun",
+    "-1": "-1: Non renseigné"
+  },
+  "situ": {
+    "1": "1: Sur chaussée",
+    "2": "2: Sur bande d'arrêt d'urgence",
+    "3": "3: Sur accotement",
+    "4": "4: Sur trottoir",
+    "5": "5: Sur piste cyclable",
+    "0": "0: Aucun",
+    "-1": "-1: Non renseigné"
+  },
+  "vma": {
+    "30": "30 km/h",
+    "50": "50 km/h",
+    "70": "70 km/h",
+    "80": "80 km/h",
+    "90": "90 km/h",
+    "110": "110 km/h",
+    "130": "130 km/h",
+    "0": "0: Non renseigné",
+    "-1": "-1: Non renseigné"
+  },
+  "senc": {
+    "1": "1: PK/PR ou Numéro croissant",
+    "2": "2: PK/PR ou Numéro décroissant",
+    "0": "0: Non renseigné",
+    "-1": "-1: Non renseigné"
+  },
+  "obs": {
+    "0": "0: Aucun",
+    "1": "1: Véhicule en stationnement",
+    "2": "2: Arbre",
+    "4": "4: Mur",
+    "5": "5: Poteau",
+    "10": "10: Autre",
+    "-1": "-1: Non renseigné"
+  },
+  "obsm": {
+    "0": "0: Aucun",
+    "1": "1: Piéton",
+    "2": "2: Véhicule",
+    "4": "4: Véhicule en stationnement",
+    "-1": "-1: Non renseigné"
+  },
+  "choc": {
+    "1": "1: Avant",
+    "2": "2: Avant droit",
+    "3": "3: Avant gauche",
+    "4": "4: Arrière",
+    "5": "5: Arrière droit",
+    "6": "6: Arrière gauche",
+    "7": "7: Côté droit",
+    "8": "8: Côté gauche",
+    "0": "0: Non renseigné",
+    "-1": "-1: Non renseigné"
+  },
+  "manv": {
+    "1": "1: Sans changement de direction",
+    "2": "2: Même sens, même file",
+    "3": "3: Changeait de file",
+    "10": "10: Virait à gauche",
+    "12": "12: Virait à droite",
+    "14": "14: Reculait",
+    "17": "17: S'arrêtait",
+    "18": "18: Manoeuvre de stationnement",
+    "0": "0: Non renseigné",
+    "-1": "-1: Non renseigné"
+  },
+  "motor": {
+    "1": "1: Hydrocarbure",
+    "2": "2: Hybride",
+    "3": "3: Electrique",
+    "0": "0: Non renseigné",
+    "-1": "-1: Non renseigné"
+  }
+}
