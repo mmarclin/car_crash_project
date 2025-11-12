@@ -17,6 +17,7 @@ It includes a full data processing pipeline, a machine learning model (Gradient 
 
 ## Final Project Structure
 
+```
 your_project_folder/
 ├── models/
 │   └── gb_model.joblib         # The trained Gradient Boosting model
@@ -31,6 +32,7 @@ your_project_folder/
 ├── Dockerfile                  # Recipe for building the Docker image
 ├── .dockerignore               # Files to ignore during Docker build
 └── README.md                   # This file
+```
 
 ## Setup & Installation
 
