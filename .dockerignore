@@ -1,0 +1,20 @@
+# Ignore Python's cache files
+__pycache__/
+*.pyc
+
+# Ignore general OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Ignore Git files
+.git
+.gitignore
+
+# Ignore any local environment files
+.env
+.venv
+.vscode
+venv/
